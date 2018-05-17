@@ -3,7 +3,7 @@
 
 body {
   font-family: colfax-web, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: #202020;
+  color: #30343F;
   font-size: 16px;
 }
 
@@ -49,7 +49,7 @@ a:active {
 }
 
 .title a {
-  color: #202020;
+  color: #30343F;
 }
 .title a:hover,
 .title a:focus, {
@@ -113,7 +113,7 @@ a:active {
   border: 1px solid #eaeaea;
   font-size: 16px;
   font-weight: 500;
-  color: #202020;
+  color: #30343F;
 }
 
 .system-operational {
@@ -143,7 +143,7 @@ a:active {
 }
 
 .incident {
-  color: #202020;
+  color: #30343F;
 }
 
 .incident-title {
@@ -186,7 +186,7 @@ a:active {
   width: 100%;
   max-width: 300px;
   text-align: center;
-  font-weight: 400;
+  font-weight: 500;
   color: #00a3b0;
 }
 
@@ -201,7 +201,7 @@ a:active {
   padding-left: 16px;
   padding-bottom: 16px;
   font-size: 16px;
-  font-weight: 400;
+  font-weight: 500;
   border-bottom: 2px solid #F7F7F8;
 }
 
@@ -223,11 +223,11 @@ a:active {
 }
 
 .color-warning {
-  color: #DFAA00;
+  color: #e3a825;
 }
 
 .color-danger {
-  color: #BD1F1A;
+  color: #FE6252;
 }
 
 .mute {
@@ -276,7 +276,7 @@ a:active {
 }
 
 .pagination li a {
-  color: #202020;
+  color: #30343F;
   opacity: 0.5;
   transition: all 0.3s ease;
 }
@@ -299,7 +299,7 @@ a:active {
 }
 
 .footer a {
-  color: #202020;
+  color: #30343F;
   transition: all 0.3s ease;
 }
 
