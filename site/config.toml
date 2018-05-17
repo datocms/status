@@ -1,16 +1,18 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "StatusKit"
+title = "DatoCMS Status"
 
 [permalinks]
   incidents = "/incidents/:year/:month/:day/:slug/"
 
 [params]
-  defaultLogo = "https://www.netlify.com/img/press/logos/logomark.svg"
+  defaultLogo = "https://www.datocms-assets.com/205/1525789775-dato.png?h=96&w=96"
+  resourcesLink = "https://www.datocms.com/docs/"
+  contactLink = "https://www.datocms.com/support/"
   faviconsPath = "/images/favicon/"
 
 # List of systems monitored in this status page.
 # You'll be able to change their status every time
 # you open or update an incident.
 # Replace these examples with your own system names.
-systems = ["API", "CDN", "DNS", "Site delivery"]
+systems = ["API", "DNS", "Imgix"]
