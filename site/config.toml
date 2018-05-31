@@ -15,4 +15,4 @@ title = "DatoCMS Status"
 # You'll be able to change their status every time
 # you open or update an incident.
 # Replace these examples with your own system names.
-systems = ["API", "DNS", "Imgix"]
+systems = ["API", "DNS", "Imgix", "Administrative areas", "Dashboard"]
