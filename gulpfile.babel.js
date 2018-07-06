@@ -102,7 +102,7 @@ gulp.task("new-incident", (cb) => {
   }];
 
   inquirer.prompt(questions).then((answers) => {
-    let args = ["new", `incidents${path.sep}${kebabCase(answers.name)}.md`];
+    let args = ["new", `incidents${path.sep}${kebabCase(answers.name)}-${+new Date()}.md`];
     args = args.concat(defaultArgs);
 
     const hugo = cp.spawn(hugoBin, args, {stdio: "pipe"});
