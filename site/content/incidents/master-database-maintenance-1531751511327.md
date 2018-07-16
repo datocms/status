@@ -7,6 +7,6 @@ affectedsystems = [
   "Administrative areas",
   "Dashboard"
 ]
-resolved = false
+resolved = true
 +++
 We will perform some maintenance over our master database and will need to bring down the site for a few short minutes while we do the switch. Total downtime is not expected to exceed 5 minutes.
