@@ -7,7 +7,7 @@ affectedsystems = [
   "Administrative areas",
   "Dashboard"
 ]
-resolved = false
+resolved = true
 +++
 
 The actual maintenance impact should be contained to 15 minutes. 
