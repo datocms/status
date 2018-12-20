@@ -1,7 +1,7 @@
 +++
 title = "CDN scheduled maintenance"
 date = 2018-12-20T11:41:31.000Z
-severity = "under-maintenance"
+severity = "scheduled-maintenance"
 affectedsystems = [
   "API",
   "DNS"

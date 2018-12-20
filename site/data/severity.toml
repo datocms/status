@@ -1,5 +1,6 @@
 [descriptions]
   ok = "Up and running"
+  scheduled-maintenance = "Scheduled maintenance"
   under-maintenance = "Under maintenance"
   degraded-performance = "Degraded performance"
   partial-outage = "Partial outage"
@@ -7,6 +8,7 @@
 
 [alerts]
   ok = "ok"
+  scheduled-maintenance = "ok"
   under-maintenance = "warning"
   degraded-performance = "warning"
   partial-outage = "warning"
