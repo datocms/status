@@ -6,6 +6,9 @@ affectedsystems = [
   "API",
   "DNS"
 ]
-resolved = false
+resolved = true
 +++
 Tomorrow, Friday 21st from 9:00 CET to 10:00 CET we'll deploy some important infrastructure enhancements to the GraphQL Content Delivery API that should significantly lower latency and response times. The CDA will keep on work during the upgrade, but might respond slower. We'll keep you updated during the process.
+
+
+**Update**: All systems are back to normal. {{< track "2018-12-21T12:00:32.000Z" >}}
