@@ -5,7 +5,7 @@ severity = "partial-outage"
 affectedsystems = [
   "API"
 ]
-resolved = false
+resolved = true
 +++
 We're noticing an higher than usual amount of 500 errors on the Content Management API, we're currently investigating on the cause. We'll update this as soon as we have some news.
 
